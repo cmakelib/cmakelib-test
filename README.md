@@ -27,14 +27,14 @@ same --> test_branch_same
 
 `same/` contains equivalent file in both branches.
 
-### master
+### master branch
 
 cmake/dir_a/test.zip contains following files
 
 - Release_CMake.png
 - cmake1.png
 
-### test-branch
+### test-branch branch
 
 cmake/dir_a/test.zip contains following files
 
